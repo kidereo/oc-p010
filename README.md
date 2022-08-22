@@ -8,4 +8,4 @@ Développeur d'application - JavaScript React
 1. Use case diagrams.
 2. User stories & Acceptance criteria.
 3. Site visuals (mock-ups).
-4. Kanban board.
+4. [Kanban board](https://github.com/users/kidereo/projects/2).
