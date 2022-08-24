@@ -5,7 +5,7 @@
 Développeur d'application - JavaScript React
 
 ## Deliverables
-1. Use case diagrams.
-2. User stories & Acceptance criteria.
+1. [Use case diagrams. ](https://github.com/kidereo/oc-p010/blob/main/Derevenski_Kirill_1_diagramme_cas_usage_082022.pdf)
+2. [User stories & Acceptance criteria.](https://github.com/kidereo/oc-p010/blob/main/Derevenski_Kirill_2_user_stories_082022.pdf)
 3. Site visuals (mock-ups).
 4. [Kanban board](https://github.com/users/kidereo/projects/2).
